@@ -8,6 +8,6 @@ tags = ["general","start"]
 
 +++
 
-So, this would  be my very first post on this new project of mine: that would be, of course, learning goHugo and how to deploy hugo-created pages to GitHub Pages. Free, highly available hosting, without much hustle, automatic SSL (or so I believe) and, more importantly: s STATIC site, for my static-site needs.
+So, this would  be my very first post on this new project of mine: that would be, of course, learning goHugo and how to deploy hugo-created pages to GitHub Pages. Free, highly available hosting, without much hustle, automatic SSL (or so I believe) and, more importantly: a STATIC site, for my static-site needs.
 
 Yes, you heard me, WordPress...
