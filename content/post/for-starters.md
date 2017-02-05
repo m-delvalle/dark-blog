@@ -1,8 +1,8 @@
 +++
 categories = ["init", "general"]
-draft = true
+draft = false
 description = "My very first post"
-date = "2017-02-05T11:57:20-03:00"
+date = "2017-02-05T12:37:17-03:00"
 title = "for starters"
 tags = ["general","start"]
 

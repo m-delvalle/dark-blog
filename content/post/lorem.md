@@ -1,7 +1,7 @@
 +++
 categories = ["latin"]
-draft = true
-date = "2017-02-05T12:01:08-03:00"
+draft = false
+date = "2017-02-05T12:37:05-03:00"
 title = "Lorem Ipsum"
 description = "Placeholder for interesting content"
 tags = ["latin","lorem"]
