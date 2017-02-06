@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "My New Hugo-GithubPages Site"
-baseurl = "https://m-delvalle.github.io/dark-blog/"
+baseurl = "http://mdelvalle.ml"
 publishDir = "docs"
 theme = "after-dark"
 
