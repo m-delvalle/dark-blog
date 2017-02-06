@@ -2,76 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/post/for-starters/</loc>
+    <loc>http://mdelvalle.ml/post/for-starters/</loc>
     <lastmod>2017-02-05T12:37:17-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/post/lorem/</loc>
+    <loc>http://mdelvalle.ml/post/lorem/</loc>
     <lastmod>2017-02-05T12:37:05-03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/categories/</loc>
+    <loc>http://mdelvalle.ml/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/tags/general/</loc>
+    <loc>http://mdelvalle.ml/tags/general/</loc>
     <lastmod>2017-02-05T12:37:17-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/categories/general/</loc>
+    <loc>http://mdelvalle.ml/categories/general/</loc>
     <lastmod>2017-02-05T12:37:17-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/categories/init/</loc>
+    <loc>http://mdelvalle.ml/categories/init/</loc>
     <lastmod>2017-02-05T12:37:17-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/tags/latin/</loc>
-    <lastmod>2017-02-05T12:37:05-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://m-delvalle.github.io/dark-blog/categories/latin/</loc>
+    <loc>http://mdelvalle.ml/tags/latin/</loc>
     <lastmod>2017-02-05T12:37:05-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/tags/lorem/</loc>
+    <loc>http://mdelvalle.ml/categories/latin/</loc>
     <lastmod>2017-02-05T12:37:05-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/</loc>
+    <loc>http://mdelvalle.ml/tags/lorem/</loc>
+    <lastmod>2017-02-05T12:37:05-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://mdelvalle.ml/</loc>
     <lastmod>2017-02-05T12:37:17-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/post/</loc>
+    <loc>http://mdelvalle.ml/post/</loc>
     <lastmod>2017-02-05T12:37:17-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/tags/start/</loc>
+    <loc>http://mdelvalle.ml/tags/start/</loc>
     <lastmod>2017-02-05T12:37:17-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://m-delvalle.github.io/dark-blog/tags/</loc>
+    <loc>http://mdelvalle.ml/tags/</loc>
     <priority>0</priority>
   </url>
   

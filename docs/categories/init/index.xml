@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Init on My New Hugo-GithubPages Site</title>
-    <link>https://m-delvalle.github.io/dark-blog/categories/init/index.xml</link>
+    <link>http://mdelvalle.ml/categories/init/index.xml</link>
     <description>Recent content in Init on My New Hugo-GithubPages Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://m-delvalle.github.io/dark-blog/categories/init/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mdelvalle.ml/categories/init/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>for starters</title>
-      <link>https://m-delvalle.github.io/dark-blog/post/for-starters/</link>
+      <link>http://mdelvalle.ml/post/for-starters/</link>
       <pubDate>Sun, 05 Feb 2017 12:37:17 -0300</pubDate>
       
-      <guid>https://m-delvalle.github.io/dark-blog/post/for-starters/</guid>
+      <guid>http://mdelvalle.ml/post/for-starters/</guid>
       <description>&lt;p&gt;So, this would  be my very first post on this new project of mine: that would be, of course, learning goHugo and how to deploy hugo-created pages to GitHub Pages. Free, highly available hosting, without much hustle, automatic SSL (or so I believe) and, more importantly: a STATIC site, for my static-site needs.&lt;/p&gt;
 
 &lt;p&gt;Yes, you heard me, WordPress&amp;hellip;&lt;/p&gt;

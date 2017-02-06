@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorem on My New Hugo-GithubPages Site</title>
-    <link>https://m-delvalle.github.io/dark-blog/tags/lorem/index.xml</link>
+    <link>http://mdelvalle.ml/tags/lorem/index.xml</link>
     <description>Recent content in Lorem on My New Hugo-GithubPages Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://m-delvalle.github.io/dark-blog/tags/lorem/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mdelvalle.ml/tags/lorem/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>https://m-delvalle.github.io/dark-blog/post/lorem/</link>
+      <link>http://mdelvalle.ml/post/lorem/</link>
       <pubDate>Sun, 05 Feb 2017 12:37:05 -0300</pubDate>
       
-      <guid>https://m-delvalle.github.io/dark-blog/post/lorem/</guid>
+      <guid>http://mdelvalle.ml/post/lorem/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac accumsan nulla. Cras malesuada massa ac ultrices lacinia. Nullam finibus, turpis quis dignissim elementum, libero libero commodo lacus, id lacinia ligula mi in nulla. Etiam porttitor feugiat sapien, at lacinia dolor congue dapibus. Donec in sapien tempus, facilisis sem suscipit, euismod velit. Nam pellentesque orci augue, vitae dapibus mi luctus lobortis. Suspendisse potenti. Donec ac orci a dui molestie hendrerit. Nunc quis libero blandit, efficitur odio luctus, laoreet risus.&lt;/p&gt;
 
 &lt;p&gt;Fusce luctus nulla et turpis rutrum, eget tristique erat venenatis. Phasellus laoreet, quam non sollicitudin fringilla, magna nisl pulvinar dui, at convallis nibh urna vel metus. Pellentesque ultrices quam at tortor ornare tincidunt. Sed dignissim vestibulum nibh eu iaculis. Vivamus non eros imperdiet, fermentum quam varius, viverra neque. Fusce auctor lorem nulla, sit amet sagittis libero tempor quis. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
